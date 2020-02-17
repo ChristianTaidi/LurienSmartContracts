@@ -20,4 +20,6 @@
 - [Solidity smart contract events](https://ethereum.stackexchange.com/questions/47398/smart-contract-events)
 - [How data is stored in ethereum](https://hackernoon.com/getting-deep-into-ethereum-how-data-is-stored-in-ethereum-e3f669d96033)
 - [Solidity tutorial](https://www.youtube.com/watch?v=ipwxYa-F1uY)
-- [Create and deploy smart contracts with solidity](https://www.baeldung.com/smart-contracts-ethereum-solidity)
+- [Create and deploy smart contracts with solidity](https://www.baeldung.com/smart-contracts-ethereum-solidity)(
+- [Truffle Ganache Geth and Mist](https://hackernoon.com/ethereum-development-walkthrough-part-2-truffle-ganache-geth-and-mist-8d6320e12269)
+- [Interacting with deployed smart contracts with truffle](https://medium.com/@blockchain101/interacting-with-deployed-ethereum-contracts-in-truffle-39d7c7040455)
