@@ -12,3 +12,12 @@
 
 2.      
      web3j solidity generate --binFile=TestLurien.bin --abiFile=TestLurien.abi -p contract.model -o src/main/java/
+
+### USeful links
+
+- [Medium building local eth network](https://medium.com/@javahippie/building-a-local-ethereum-network-with-docker-and-geth-5b9326b85f37)
+- [Fullstack hello world smart contract](https://techbrij.com/hello-world-smart-contract-solidity-ethereum-dapp-part-1)
+- [Solidity smart contract events](https://ethereum.stackexchange.com/questions/47398/smart-contract-events)
+- [How data is stored in ethereum](https://hackernoon.com/getting-deep-into-ethereum-how-data-is-stored-in-ethereum-e3f669d96033)
+- [Solidity tutorial](https://www.youtube.com/watch?v=ipwxYa-F1uY)
+- [Create and deploy smart contracts with solidity](https://www.baeldung.com/smart-contracts-ethereum-solidity)
