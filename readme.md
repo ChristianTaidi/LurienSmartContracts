@@ -8,10 +8,10 @@
 ### Commands to build the java wrapper
 
 1. 
-     sudo docker run --rm -v '/home/indizenlabs/Escritorio/':'/contract' -w '/contract' ethereum/solc:0.6.1 '/contract/LurienContract.sol' --bin --abi --optimize -o '/contract' --overwrite
+     `sudo docker run --rm -v '/home/indizenlabs/Escritorio/':'/contract' -w '/contract' ethereum/solc:0.6.1 '/contract/LurienContract.sol' --bin --abi --optimize -o '/contract' --overwrite`
 
 2.      
-     web3j solidity generate --binFile=TestLurien.bin --abiFile=TestLurien.abi -p contract.model -o src/main/java/
+     `web3j solidity generate --binFile=TestLurien.bin --abiFile=TestLurien.abi -p contract.model -o src/main/java/`
 
 ### USeful links
 
@@ -23,3 +23,4 @@
 - [Create and deploy smart contracts with solidity](https://www.baeldung.com/smart-contracts-ethereum-solidity)(
 - [Truffle Ganache Geth and Mist](https://hackernoon.com/ethereum-development-walkthrough-part-2-truffle-ganache-geth-and-mist-8d6320e12269)
 - [Interacting with deployed smart contracts with truffle](https://medium.com/@blockchain101/interacting-with-deployed-ethereum-contracts-in-truffle-39d7c7040455)
+- [Blockchain using custom ethereum network in java](https://sgitario.github.io/blockchain-using-java/)
